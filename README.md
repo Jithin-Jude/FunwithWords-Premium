@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.inc.mountzoft.funwithwords&hl=en"><img src="https://user-images.githubusercontent.com/20029287/43059401-dccab976-8e69-11e8-957a-1ef59389dbc6.png" alt="Fun with Words"></a>
+ <img src="https://user-images.githubusercontent.com/20029287/43059401-dccab976-8e69-11e8-957a-1ef59389dbc6.png" alt="Fun with Words">
   <br>
   Fun with Words
   <br>
@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/MountZoft/FunwithWords-Free/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions-welcome"></a>
-    <a href="http://hits.dwyl.io/MountZoft/FunwithWords-Free"><img src="http://hits.dwyl.io/MountZoft/FunwithWords-Free.svg" alt="HitCount"></a>
+  <a href="https://github.com/MountZoft/FunwithWords-Premium/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions-welcome"></a>
+    <a href="http://hits.dwyl.io/MountZoft/FunwithWords-Premium"><img src="http://hits.dwyl.io/MountZoft/FunwithWords-Premium.svg" alt="HitCount"></a>
 </p>
 
 <b>‘Fun with words’ is a memory game where a set of words are displayed which the player is supposed to
@@ -65,4 +65,4 @@ SOFTWARE.
 ```
 
 # Contribute
-For contributing, to this app you can go through [CONTRIBUTING.md](https://github.com/MountZoft/FunwithWords-Free/blob/master/CONTRIBUTING.md).
+For contributing, to this app you can go through [CONTRIBUTING.md](https://github.com/MountZoft/FunwithWords-Premium/blob/master/CONTRIBUTING.md).
