@@ -37,7 +37,7 @@ and reading and reasoning skills.
 
 # Technologies Used
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- [Android](https://en.wikipedia.org/wiki/Android_(operating_system))
+- [Android SDK](https://developer.android.com/)
 
 # License
 ```
